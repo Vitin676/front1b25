@@ -1,0 +1,33 @@
+body{
+    background-color: #00ffff;
+}
+#identificador{
+    color: #005EFF;
+    text-align: center;
+    font-size: 20px;
+    margin: 50px;
+}
+
+.exercicio{
+    background-color: blue;
+    color: green;
+    font-size: 30px;
+    text-align: right;
+    padding: 30px;
+    font-family: 'poppis', sans-serif;
+    font-style: italic;
+
+}
+
+.texto{
+    color: #161616;
+    line-height: 30px;
+    text-align: justify;
+    text-transform: capitalize;
+    font-weight: bold;
+    border: 1px solid red;
+    font-family: 'poppis', sans-serif;
+    
+    
+
+}
